@@ -1,0 +1,31 @@
+#summary Describes the project in general detail
+#labels Featured,Phase-Requirements,Phase-Design
+= Abstract =
+
+== Introduction ==
+
+This project is an attempt to create an open source clone of the Animal Crossing (Animal Forest) video game. It will feature complex artificial intelligence, easy access networking, high level crafting, plot, goals, and should be easily extensible.
+
+It should integrate as many features from the original Animal Crossing and Animal Crossing: Wild World as possible.
+
+
+== Expected Included Features (not all inclusive) ==
+  # Single player experience
+  # Multiplayer experience with up to 4 players locally.
+  # Up to 15 Animal Neighbors
+  # A General Store
+  # Trees that grow fruit on a regular basis
+  # Real-time progression (night & day, seasonal)
+  # Civic buildings (museum, post office, police station, lighthouse)
+  # Travel (other towns and tropical islands)
+  # Special visitors (including a musician)
+  # Thousands of items.
+  # Design capabilities (cloth designs, music, letters)
+  # Collection goals (insects, fish, fossils, paintings)
+  # Home rating system.
+  # Mini games (like the emulated NES Classics)
+  # Mini activities (sports day, holidays, snowmen)
+  # Birthday celebrations.
+
+== Suggestions (from other people) ==
+  #  Sharing of player instances/creation a la Spore (by andrew [http://forum.freegamedev.net/index.php?t=msg&S=4bfa7f8c02fe2ad49f53921324d4efde&th=752&goto=5373#msg_5373 FreeGameDev post])
