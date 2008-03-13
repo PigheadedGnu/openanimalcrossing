@@ -3,9 +3,9 @@
 
 == Introduction ==
 
-This project is an attempt to create an open source clone of the Animal Crossing (Animal Forest) video game. It will feature complex artificial intelligence, easy access networking, high level crafting, plot, goals, and should be easily extensible.
+This project is an attempt to create an open source clone of the [http://en.wikipedia.org/wiki/Animal_Crossing_(series) Animal Crossing] video game. It will feature complex artificial intelligence, easy access networking, high level crafting, plot, goals, and should be easily extensible.
 
-It should integrate as many features from the original Animal Crossing and Animal Crossing: Wild World as possible.
+It should integrate as many features from the original [http://en.wikipedia.org/wiki/Animal_Crossing Animal Crossing] and [http://en.wikipedia.org/wiki/Animal_Crossing:_Wild_World Animal Crossing: Wild World] as possible.
 
 
 == Expected Included Features (not all inclusive) ==
@@ -27,7 +27,7 @@ It should integrate as many features from the original Animal Crossing and Anima
   # Birthday celebrations.
 
 == Suggestions (from other people) ==
-  #  Sharing of player instances/creation a la Spore (by andrew [http://forum.freegamedev.net/index.php?t=msg&S=4bfa7f8c02fe2ad49f53921324d4efde&th=752&goto=5373#msg_5373 FreeGameDev post])
+  #  Sharing of player instances/creations a la Spore (by andrew [http://forum.freegamedev.net/index.php?t=msg&S=4bfa7f8c02fe2ad49f53921324d4efde&th=752&goto=5373#msg_5373 FreeGameDev post])
 
 == General Ideas ==
   # Fabric and clothing design can be customized asymmetrically.
@@ -38,5 +38,5 @@ It should integrate as many features from the original Animal Crossing and Anima
   # Deciding where to host all the project resources. If this ever takes off, the webhosting services at my university are not sufficient. Currently on Google Code (http://code.google.com/p/openanimalcrossing/)
 
 == Contact Info ==
-Email me at [mailto:imaginationac@gmail.com imaginationac@gmail.com]
+Email Dorian at [mailto:imaginationac@gmail.com imaginationac@gmail.com]
 Use the subject line "Open Animal Crossing: <subject title>" substituting your subject matter with <subject title>.
