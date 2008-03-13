@@ -37,4 +37,6 @@ It should integrate as many features from the original Animal Crossing and Anima
   # Ability to build other types of buildings; like movie theaters, malls, and such. I found it sad you could do just about nothing from the suggestions given to you from your neighbors.
   # Deciding where to host all the project resources. If this ever takes off, the webhosting services at my university are not sufficient. Currently on Google Code (http://code.google.com/p/openanimalcrossing/)
 
-==
+== Contact Info ==
+Email me at [mailto:imaginationac@gmail.com imaginationac@gmail.com]
+Use the subject line "Open Animal Crossing: <subject title>" substituting your subject matter with <subject title>.
