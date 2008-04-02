@@ -1,0 +1,10 @@
+#summary Outline of development
+#labels Phase-Design
+
+= Introduction =
+
+The project can be separated into four parts:
+  # Graphics
+  # Text
+  # Sound (Effects & Music)
+  # Interaction (User interface, controls)
