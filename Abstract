@@ -1,0 +1,31 @@
+Open Animal Crossing
+By Dorian A. Patterson
+Last Updated: Tuesday, March 4, 2008
+
+Abstract
+--------
+This project is an attempt to create an open source clone of the Animal Crossing
+(Animal Forest) video game. It will feature complex artificial intelligence,
+easy access networking, high level crafting, plot, goals, and should be easily
+extendible.
+
+It should integrate as many features from the original Animal Crossing and
+Animal Crossing: Wild World as possible.
+
+Expected Included Features:
+1. Single player experience
+2. Multiplayer experience with up to 4 players locally.
+3. Up to 15 Animal Neighbors
+4. A General Store
+5. Trees that grow fruit on a regular basis
+6. Real-time progression (night & day, seasonal)
+7. Civic buildings
+8. Travel (other towns and tropical islands)
+9. Special visitors (including a musician)
+10. 100s of items
+11. Design capabilities (cloth designs, music, letters)
+12. Collection goals (insects, fish, fossils, paintings)
+13. A Home rating system.
+14. Mini games (like the emulated NES Classics)
+15. Mini activities (sports day, holidays, snowmen)
+16. Birthday celebrations.
