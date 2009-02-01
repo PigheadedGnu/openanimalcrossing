@@ -3,9 +3,8 @@ package Characters;
 /**
  * Project: OpenAnimalCrossing
  * File: NonPlayerCharacter.java
- * Represents a generic item in the game world (anything that can be put in an
- * inventory).
- * Last modified: April 2, 2008
+ * Represents any non playable character (NPC).
+ * Last modified: 11:54 PM EST, Saturday, January 31, 2009.
  *
 * Copyright (C) 2008 Dorian Patterson
  *
