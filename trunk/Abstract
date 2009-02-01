@@ -1,6 +1,6 @@
 Open Animal Crossing
-By Dorian A. Patterson
-Last Updated: Tuesday, March 4, 2008
+By Dorian Alexander Patterson
+Last Updated: 11:51 PM EST, Saturday, January 31, 2009.
 
 Abstract
 --------
@@ -9,9 +9,8 @@ This project is an attempt to create an open source clone of the Animal Crossing
 easy access networking, high level crafting, plot, goals, and should be easily
 extendible.
 
-It should integrate as many features from the original Animal Crossing and
-Animal Crossing: Wild World as possible.
-
+It should integrate as many features from the original Animal Crossing, Animal
+Crossing: Wild World, and Animal Crossing: City Folk.
 Expected Included Features:
 1. Single player experience
 2. Multiplayer experience with up to 4 players locally.
@@ -29,3 +28,4 @@ Expected Included Features:
 14. Mini games (like the emulated NES Classics)
 15. Mini activities (sports day, holidays, snowmen)
 16. Birthday celebrations.
+17. Travel to the city.
